@@ -13,3 +13,17 @@ I later finished the GatsbyJS tutorial available on the Gatsby website. I worked
 1. [ES6 for Everyone](https://es6.io/)
 2. [GatsbyJS Tutorial](https://www.gatsbyjs.org/tutorial/part-eight/)
 
+## Day 1: August 26, 2019
+**Today's Progress:**
+1. WordPress (60mins)
+
+**Thoughts:**
+Even though I've writting a couple of plugins for production, I wanted to go through a more structured process of creating a plugin. I found this series of articles on [Torque](https://torquemag.io/) that are good resource. Tonight I'll probably go through the process again and create a new plugin for the website.
+
+**Today's Links:**
+1. [BUILDING A WORDPRESS PLUGIN: FIRST STEPS AND SETTING THE SCENE](https://torquemag.io/2016/08/building-a-wordpress-plugin-part-1-first-steps-and-setting-the-scene/)
+2. [BUILDING A WORDPRESS PLUGIN PART 2: GETTING OFF TO A SOLID START](https://torquemag.io/2016/08/building-wordpress-plugin/)
+3. [BUILDING A WORDPRESS PLUGIN PART 3: SETTING UP A CUSTOM CONTENT TYPE](https://torquemag.io/2016/09/building-a-wordpress-plugin-part-3-setting-up-a-custom-content-type/)
+4. [BUILDING A WORDPRESS PLUGIN PART 4: LOOKING AT DISPLAYING CONTENT VIA SHORTCODES](https://torquemag.io/2016/09/building-a-wordpress-plugin-part-4-looking-at-displaying-content-via-shortcodes/)
+5. [BUILDING A WORDPRESS PLUGIN PART 5: FINISHING OFF OUR SETTINGS](https://torquemag.io/2016/09/building-a-wordpress-plugin-part-five/)
+6. [BUILDING A WORDPRESS PLUGIN PART 6: FURTHER OPTIONS AND FINAL THOUGHTS](https://torquemag.io/2016/09/building-wordpress-plugin-part-6/)
