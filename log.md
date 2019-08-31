@@ -27,3 +27,14 @@ Even though I've writting a couple of plugins for production, I wanted to go thr
 4. [BUILDING A WORDPRESS PLUGIN PART 4: LOOKING AT DISPLAYING CONTENT VIA SHORTCODES](https://torquemag.io/2016/09/building-a-wordpress-plugin-part-4-looking-at-displaying-content-via-shortcodes/)
 5. [BUILDING A WORDPRESS PLUGIN PART 5: FINISHING OFF OUR SETTINGS](https://torquemag.io/2016/09/building-a-wordpress-plugin-part-five/)
 6. [BUILDING A WORDPRESS PLUGIN PART 6: FURTHER OPTIONS AND FINAL THOUGHTS](https://torquemag.io/2016/09/building-wordpress-plugin-part-6/)
+
+## Day 1: August 31, 2019
+**Today's Progress:**
+1. React (70mins)
+
+**Thoughts:**
+I'm redoing a lesson on React because I've been having trouble remembering the exact syntax for ReactDOM.render(). I know the basic layout but I keep on forgetting the exact way to enter the first argument. I studied `this.props`. Glad I went through it a 2nd time, definitely feel like I have a better grasp. Later, I'll go through `this.state`.
+`ReactDOM.render(<ComponentName />, document.getElementById('app'));`
+
+**Today's Links:**
+1. [React - Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
