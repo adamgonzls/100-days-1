@@ -107,6 +107,12 @@ class Toggle extends React.Component {
 
 **Thoughts:**
 Started the Gatsby tutorial again. Part zero consisted of setting up the development environment and learning basic commands such as `gatsby develop`.
+When creating a new gatsby site, use the following command structure to create a new site based on any existing Gatsby starter:
+```
+gatsby new [SITE_DIRECTORY_NAME] [URL_OF_STARTER_GITHUB_REPO]
+```
+A "component" could be defined as a building block for your site. A self-contained piece of code that describes a section of user interface.
 
 **Today's Links:**
-1. [Gatsby - Part Zero](https://www.gatsbyjs.org/tutorial/part-zero/)
+1. [Gatsby - Set Up Your Development Environment](https://www.gatsbyjs.org/tutorial/part-zero/)
+2. [Gatsby - Get to know Gatsby building blocks](https://www.gatsbyjs.org/tutorial/part-one/)
