@@ -38,3 +38,75 @@ I'm redoing a lesson on React because I've been having trouble remembering the e
 
 **Today's Links:**
 1. [React - Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+
+## Day 2: September 1, 2019
+**Today's Progress:**
+1. React (70mins)
+
+###Thoughts:
+Today I went through two lessons I had done before. These focused on `state` and `props`.
+**State**. A React component can access dynamic information in two ways: `props` and `state`. Unlike `props`, a component's `state` is not passed in from the outside. A component decides it's own `state`. To make a component have `state`, give the component a `state` property.
+```
+class Example extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { mood: 'decent' };
+  }
+
+  render() {
+    return <div></div>;
+  }
+}
+
+<Example />
+```
+`this.state` should be equal to an object - like above.
+**React components *always* have to call `super` in their constructors to be set up properly**.
+A Component can read and *change* it's own state. A component changes it's state by calling the function `this.setState()`.
+The most common way to call `this.setState()` is to call a custom function that wraps a `this.setState()` call.
+```
+import React from 'react';
+import ReactDOM from 'react-dom'
+
+const green = '#39D1B4';
+const yellow = '#FFD712';
+
+class Toggle extends React.Component {
+  constructor(props) {
+  	super(props);
+    this.state = { color: green };
+    this.changeColor = this.changeColor.bind(this);
+  }
+  
+  changeColor() {
+    const newColor = this.state.color == green ? yellow : green;
+    this.setState({color: newColor});
+  }
+  
+  render() {
+    return (
+      <div style={{background: this.state.color}}>
+        <h1>
+          Change my color
+        </h1>
+        <button onClick={this.changeColor}>
+        	Change color
+        </button>
+      </div>
+    );
+  }
+}
+```
+
+###Today's Links:
+1. [React - Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+
+## Day 3: September 2, 2019
+**Today's Progress:**
+1. Gatsby (mins)
+
+**Thoughts:**
+Started the Gatsby tutorial again. Part zero consisted of setting up the development environment and learning basic commands such as `gatsby develop`.
+
+**Today's Links:**
+1. [Gatsby - Part Zero](https://www.gatsbyjs.org/tutorial/part-zero/)
