@@ -103,7 +103,7 @@ class Toggle extends React.Component {
 
 ## Day 3: September 2, 2019
 **Today's Progress:**
-1. Gatsby (mins)
+1. Gatsby (110mins)
 
 **Thoughts:**
 Started the Gatsby tutorial again. Part zero consisted of setting up the development environment and learning basic commands such as `gatsby develop`.
@@ -116,3 +116,13 @@ A "component" could be defined as a building block for your site. A self-contain
 **Today's Links:**
 1. [Gatsby - Set Up Your Development Environment](https://www.gatsbyjs.org/tutorial/part-zero/)
 2. [Gatsby - Get to know Gatsby building blocks](https://www.gatsbyjs.org/tutorial/part-one/)
+
+## Day 4: September 3, 2019
+**Today's Progress:**
+1. WordPress (70mins)
+
+**Thoughts:**
+Today I spent some time going through a tutorial I have gone through once before. This is about building a WordPress theme from scratch. The biggest snippet I gathered this time around is the workflow to creating the theme. The instructor recommended a seperate environment to create the static pages for the theme. This is brilliant. This saves all the time from creating the dev environment on multiple machines and instead gets you coding quick.
+
+**Today's Links:**
+1. [WordPress Theme Development](https://www.udemy.com/bootstrap-to-wordpress)
