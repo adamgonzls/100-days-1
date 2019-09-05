@@ -126,3 +126,13 @@ Today I spent some time going through a tutorial I have gone through once before
 
 **Today's Links:**
 1. [WordPress Theme Development](https://www.udemy.com/bootstrap-to-wordpress)
+
+## Day 5: September 4, 2019
+**Today's Progress:**
+1. WordPress (60mins)
+
+**Thoughts:**
+Today's lessons were mostly about styling. Nothing really new encountered here.
+
+**Today's Links:**
+1. [WordPress Theme Development](https://www.udemy.com/bootstrap-to-wordpress)
