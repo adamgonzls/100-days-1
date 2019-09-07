@@ -136,3 +136,15 @@ Today's lessons were mostly about styling. Nothing really new encountered here.
 
 **Today's Links:**
 1. [WordPress Theme Development](https://www.udemy.com/bootstrap-to-wordpress)
+
+## Day 6: September 6, 2019
+**Today's Progress:**
+1. Gatsby (30mins)
+2. React (20mins)
+
+**Thoughts:**
+I worked on Styling in Gatsby and learned about CSS Modules. I felt mostly comfortable with the syntax of everything. This article didn't go into CSS-in-JS but there were a few other articles mentioned for more information.
+I also went through a short tutorial on Codecademy regaring stateless and stateful components. I felt mostly comfortable with that. I'll have to go through more lessons to really 'put it together' though.
+
+**Today's Links:**
+1. [Introduction to Styling in Gatsby](https://www.gatsbyjs.org/tutorial/part-two/)
