@@ -148,3 +148,16 @@ I also went through a short tutorial on Codecademy regaring stateless and statef
 
 **Today's Links:**
 1. [Introduction to Styling in Gatsby](https://www.gatsbyjs.org/tutorial/part-two/)
+
+## Day 6: September 10, 2019
+**Today's Progress:**
+1. WordPress (60mins)
+2. Gatsby (40mins)
+
+**Thoughts:**
+Watched more of the WordPress theme development course. Most of the material was pretty basic. The one lecture that included a brief discussion on the usage of sprites was probably the best piece of information for me.
+The Gatsby tutorial focused on utilizing plugins in Gatsby and creating and using components. I also went off-tutorial and created a table component which I used on one of the pages.
+
+**Today's Links:**
+1. [WordPress Theme Development](https://www.udemy.com/bootstrap-to-wordpress)
+2. [Creating nested layout components](https://www.gatsbyjs.org/tutorial/part-three/)
