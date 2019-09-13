@@ -161,3 +161,17 @@ The Gatsby tutorial focused on utilizing plugins in Gatsby and creating and usin
 **Today's Links:**
 1. [WordPress Theme Development](https://www.udemy.com/bootstrap-to-wordpress)
 2. [Creating nested layout components](https://www.gatsbyjs.org/tutorial/part-three/)
+
+## Day 7: September 12, 2019
+**Today's Progress:**
+1. AJAX/XHR (50mins)
+2. WordPress (30mins)
+3. React (40mins)
+
+**Thoughts:**
+I spent time trying to get an XHR request to work with Salesforce Marketing Cloud but was hampered by an error stating: `Access to XMLHttpRequest at 'https://domain.net/subscribe.aspx?lid=1267' from origin 'http://playground.test:3000' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.` I reached out to Marketing Cloud regarding the proper format required.
+I spent some time watching the WordPress Theme Development series and it was mostly review of layout (CSS).
+
+
+**Today's Links:**
+1. [WordPress Theme Development](https://www.udemy.com/bootstrap-to-wordpress)
