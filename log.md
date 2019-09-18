@@ -175,3 +175,13 @@ I spent some time watching the WordPress Theme Development series and it was mos
 
 **Today's Links:**
 1. [WordPress Theme Development](https://www.udemy.com/bootstrap-to-wordpress)
+
+## Day 9: September 14, 2019
+**Today's Progress:**
+1. Gulp 4 Boilerplate (215mins)
+
+**Thoughts:**
+Today, I created a Gulp 4 boilerplate and project scaffold from scratch. I used several resources to set up the basic functionality but it did take me a little longer to figure out adding BrowserSync functionality. This project fixes some of the issues I've had with other environments such as auto-reloading when image files are added to the image directory.
+
+**Today's Links:**
+1. [Using Gulp 4 in your workflow for Sass and JS files](https://coder-coder.com/gulp-4-walk-through/)
