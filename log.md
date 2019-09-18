@@ -172,16 +172,35 @@ The Gatsby tutorial focused on utilizing plugins in Gatsby and creating and usin
 I spent time trying to get an XHR request to work with Salesforce Marketing Cloud but was hampered by an error stating: `Access to XMLHttpRequest at 'https://domain.net/subscribe.aspx?lid=1267' from origin 'http://playground.test:3000' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.` I reached out to Marketing Cloud regarding the proper format required.
 I spent some time watching the WordPress Theme Development series and it was mostly review of layout (CSS).
 
-
 **Today's Links:**
 1. [WordPress Theme Development](https://www.udemy.com/bootstrap-to-wordpress)
+
+## Day 8: September 13, 2019
+**Today's Progress:**
+1. Flywheel (180mins)
+
+**Thoughts:**
+Worked on getting the development environment for phoenixstartupweek set up. We also worked on getting version control on github set up, but instead will use gitlab due to the permissions management.
+
+**Today's Links:**
+1. [Local by Flywheel](https://localbyflywheel.com/)
 
 ## Day 9: September 14, 2019
 **Today's Progress:**
 1. Gulp 4 Boilerplate (215mins)
 
 **Thoughts:**
-Today, I created a Gulp 4 boilerplate and project scaffold from scratch. I used several resources to set up the basic functionality but it did take me a little longer to figure out adding BrowserSync functionality. This project fixes some of the issues I've had with other environments such as auto-reloading when image files are added to the image directory.
+Today, I created a Gulp 4 boilerplate and project scaffold from scratch. The task syntax is a little different in Gulp 4. I used several resources to set up the functionality but it did take me some time to figure out adding BrowserSync functionality. This project also fixes some of the issues I've had with other environments such as auto-reloading when image files are added to the image directory.
+
+**Today's Links:**
+1. [Using Gulp 4 in your workflow for Sass and JS files](https://coder-coder.com/gulp-4-walk-through/)
+
+## Day 10: September 17, 2019
+**Today's Progress:**
+1. WordPress Theme Development (65mins)
+
+**Thoughts:**
+Working through the theme develpment course. These lessons focused on laying out ui and css.
 
 **Today's Links:**
 1. [Using Gulp 4 in your workflow for Sass and JS files](https://coder-coder.com/gulp-4-walk-through/)
