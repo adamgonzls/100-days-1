@@ -204,3 +204,19 @@ Working through the theme develpment course. These lessons focused on laying out
 
 **Today's Links:**
 1. [Using Gulp 4 in your workflow for Sass and JS files](https://coder-coder.com/gulp-4-walk-through/)
+
+**Today's Links:**
+1. [Using Gulp 4 in your workflow for Sass and JS files](https://coder-coder.com/gulp-4-walk-through/)
+
+## Day 11: September 18, 2019
+**Today's Progress:**
+1. Gatsby (65mins)
+
+**Thoughts:**
+In part 4 of the tutorial wrote a graphql page query to query the title for my about page. Then, I wrote a `StaticQuery` which allows non-page components to retreive data via GraphQL queries.
+In part 5 I was introduced to GraphiQL and saw how I could use it to visually see site data. I then used a source plugin `(source plugins fetch data from their source... The WordPress plugin knows how to fetch data from the WordPress API)` to query data.
+
+**Today's Links:**
+1. [Data in Gatsby](https://www.gatsbyjs.org/tutorial/part-four/)
+1. [Source plugins and rendering queried data](https://www.gatsbyjs.org/tutorial/part-five/)
+2. [How to GraphQL](https://www.howtographql.com/)
