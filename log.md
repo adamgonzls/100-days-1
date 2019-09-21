@@ -220,3 +220,28 @@ In part 5 I was introduced to GraphiQL and saw how I could use it to visually se
 1. [Data in Gatsby](https://www.gatsbyjs.org/tutorial/part-four/)
 1. [Source plugins and rendering queried data](https://www.gatsbyjs.org/tutorial/part-five/)
 2. [How to GraphQL](https://www.howtographql.com/)
+
+## Day 12: September 19, 2019
+**Today's Progress:**
+1. Gatsby/WordPress (180mins)
+
+**Thoughts:**
+Worked with another developer on a non-profit project. We're using a WP backend with a Gatsby frontend. We're still in the planning and setup phase. I helped him get his `Gulp 4` dev environment set up his *Windows* computer using the boiler plate I worked on last week. We also worked on adding a new custom post type using ACF- this will be our prototype for the Gatsby front end. We added a few tasks in Asana and then called it a night.
+
+**Today's Links:**
+1. [Data in Gatsby](https://www.gatsbyjs.org/tutorial/part-four/)
+2. [Source plugins and rendering queried data](https://www.gatsbyjs.org/tutorial/part-five/)
+3. [How to GraphQL](https://www.howtographql.com/)
+
+## Day 13: September 20, 2019
+**Today's Progress:**
+1. GitLab (30mins)
+2. MySQL (180mins)
+
+**Thoughts:**
+Moved a repository from GitHub to GitLab. Currently, working within a team, the permissions seem to be more flexible in the free tier on GitLab. At first the permissions seemed confusing but I just needed to create a new group.
+I worked on queries in MySQL on the WordPress database. I learned a little more about how data is stored- especially Metadata. I also installed Sequel Pro on my work computer. I wasn't sure if I needed it anymore and I found it was more convenient to write queries there instead of in the command line.
+
+**Today's Links:**
+1. [Phoenix Startup Week](https://phxstartupweek.com)
+2. [GitLab - Organization Account](https://forum.gitlab.com/t/organisation-account/14026/5)
