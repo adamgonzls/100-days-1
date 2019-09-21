@@ -241,6 +241,12 @@ Worked with another developer on a non-profit project. We're using a WP backend 
 **Thoughts:**
 Moved a repository from GitHub to GitLab. Currently, working within a team, the permissions seem to be more flexible in the free tier on GitLab. At first the permissions seemed confusing but I just needed to create a new group.
 I worked on queries in MySQL on the WordPress database. I learned a little more about how data is stored- especially Metadata. I also installed Sequel Pro on my work computer. I wasn't sure if I needed it anymore and I found it was more convenient to write queries there instead of in the command line.
+I also saw a cool code snippet in Frontend Focus to give a visual indicator if an image doesn't have an alt attribute:
+```
+img:not([alt]) {
+  filter: grayscale(100%);
+}
+```
 
 **Today's Links:**
 1. [Phoenix Startup Week](https://phxstartupweek.com)
