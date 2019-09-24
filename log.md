@@ -2,8 +2,8 @@
 
 ## Day 1: March 17, 2019
 **Today's Progress:**
-1. JavaScript (60mins)
-2. GatsbyJS (100mins)
+1. JavaScript (60 mins)
+2. GatsbyJS (100 mins)
 
 **Thoughts:**
 I am restarting ES6 for Everyone. It's good to go through these courses again as I can tell I comprehend more than I did last time. I also see functions available in JS that are available in other languages and it makes me think about opportunities I have in other projects to use them.
@@ -15,7 +15,7 @@ I later finished the GatsbyJS tutorial available on the Gatsby website. I worked
 
 ## Day 1: August 26, 2019
 **Today's Progress:**
-1. WordPress (60mins)
+1. WordPress (60 mins)
 
 **Thoughts:**
 Even though I've writting a couple of plugins for production, I wanted to go through a more structured process of creating a plugin. I found this series of articles on [Torque](https://torquemag.io/) that are good resource. Tonight I'll probably go through the process again and create a new plugin for the website.
@@ -30,7 +30,7 @@ Even though I've writting a couple of plugins for production, I wanted to go thr
 
 ## Day 1: August 31, 2019
 **Today's Progress:**
-1. React (70mins)
+1. React (70 mins)
 
 **Thoughts:**
 I'm redoing a lesson on React because I've been having trouble remembering the exact syntax for ReactDOM.render(). I know the basic layout but I keep on forgetting the exact way to enter the first argument. I studied `this.props`. Glad I went through it a 2nd time, definitely feel like I have a better grasp. Later, I'll go through `this.state`.
@@ -41,7 +41,7 @@ I'm redoing a lesson on React because I've been having trouble remembering the e
 
 ## Day 2: September 1, 2019
 **Today's Progress:**
-1. React (70mins)
+1. React (70 mins)
 
 ###Thoughts:
 Today I went through two lessons I had done before. These focused on `state` and `props`.
@@ -103,7 +103,7 @@ class Toggle extends React.Component {
 
 ## Day 3: September 2, 2019
 **Today's Progress:**
-1. Gatsby (110mins)
+1. Gatsby (110 mins)
 
 **Thoughts:**
 Started the Gatsby tutorial again. Part zero consisted of setting up the development environment and learning basic commands such as `gatsby develop`.
@@ -119,7 +119,7 @@ A "component" could be defined as a building block for your site. A self-contain
 
 ## Day 4: September 3, 2019
 **Today's Progress:**
-1. WordPress (70mins)
+1. WordPress (70 mins)
 
 **Thoughts:**
 Today I spent some time going through a tutorial I have gone through once before. This is about building a WordPress theme from scratch. The biggest snippet I gathered this time around is the workflow to creating the theme. The instructor recommended a seperate environment to create the static pages for the theme. This is brilliant. This saves all the time from creating the dev environment on multiple machines and instead gets you coding quick.
@@ -129,7 +129,7 @@ Today I spent some time going through a tutorial I have gone through once before
 
 ## Day 5: September 4, 2019
 **Today's Progress:**
-1. WordPress (60mins)
+1. WordPress (60 mins)
 
 **Thoughts:**
 Today's lessons were mostly about styling. Nothing really new encountered here.
@@ -139,8 +139,8 @@ Today's lessons were mostly about styling. Nothing really new encountered here.
 
 ## Day 6: September 6, 2019
 **Today's Progress:**
-1. Gatsby (30mins)
-2. React (20mins)
+1. Gatsby (30 mins)
+2. React (20 mins)
 
 **Thoughts:**
 I worked on Styling in Gatsby and learned about CSS Modules. I felt mostly comfortable with the syntax of everything. This article didn't go into CSS-in-JS but there were a few other articles mentioned for more information.
@@ -151,8 +151,8 @@ I also went through a short tutorial on Codecademy regaring stateless and statef
 
 ## Day 6: September 10, 2019
 **Today's Progress:**
-1. WordPress (60mins)
-2. Gatsby (40mins)
+1. WordPress (60 mins)
+2. Gatsby (40 mins)
 
 **Thoughts:**
 Watched more of the WordPress theme development course. Most of the material was pretty basic. The one lecture that included a brief discussion on the usage of sprites was probably the best piece of information for me.
@@ -164,9 +164,9 @@ The Gatsby tutorial focused on utilizing plugins in Gatsby and creating and usin
 
 ## Day 7: September 12, 2019
 **Today's Progress:**
-1. AJAX/XHR (50mins)
-2. WordPress (30mins)
-3. React (40mins)
+1. AJAX/XHR (50 mins)
+2. WordPress (30 mins)
+3. React (40 mins)
 
 **Thoughts:**
 I spent time trying to get an XHR request to work with Salesforce Marketing Cloud but was hampered by an error stating: `Access to XMLHttpRequest at 'https://domain.net/subscribe.aspx?lid=1267' from origin 'http://playground.test:3000' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.` I reached out to Marketing Cloud regarding the proper format required.
@@ -177,7 +177,7 @@ I spent some time watching the WordPress Theme Development series and it was mos
 
 ## Day 8: September 13, 2019
 **Today's Progress:**
-1. Flywheel (180mins)
+1. Flywheel (180 mins)
 
 **Thoughts:**
 Worked on getting the development environment for phoenixstartupweek set up. We also worked on getting version control on github set up, but instead will use gitlab due to the permissions management.
@@ -187,7 +187,7 @@ Worked on getting the development environment for phoenixstartupweek set up. We 
 
 ## Day 9: September 14, 2019
 **Today's Progress:**
-1. Gulp 4 Boilerplate (215mins)
+1. Gulp 4 Boilerplate (215 mins)
 
 **Thoughts:**
 Today, I created a Gulp 4 boilerplate and project scaffold from scratch. The task syntax is a little different in Gulp 4. I used several resources to set up the functionality but it did take me some time to figure out adding BrowserSync functionality. This project also fixes some of the issues I've had with other environments such as auto-reloading when image files are added to the image directory.
@@ -197,7 +197,7 @@ Today, I created a Gulp 4 boilerplate and project scaffold from scratch. The tas
 
 ## Day 10: September 17, 2019
 **Today's Progress:**
-1. WordPress Theme Development (65mins)
+1. WordPress Theme Development (65 mins)
 
 **Thoughts:**
 Working through the theme develpment course. These lessons focused on laying out ui and css.
@@ -223,7 +223,7 @@ In part 5 I was introduced to GraphiQL and saw how I could use it to visually se
 
 ## Day 12: September 19, 2019
 **Today's Progress:**
-1. Gatsby/WordPress (180mins)
+1. Gatsby/WordPress (180 mins)
 
 **Thoughts:**
 Worked with another developer on a non-profit project. We're using a WP backend with a Gatsby frontend. We're still in the planning and setup phase. I helped him get his `Gulp 4` dev environment set up his *Windows* computer using the boiler plate I worked on last week. We also worked on adding a new custom post type using ACF- this will be our prototype for the Gatsby front end. We added a few tasks in Asana and then called it a night.
@@ -235,8 +235,8 @@ Worked with another developer on a non-profit project. We're using a WP backend 
 
 ## Day 13: September 20, 2019
 **Today's Progress:**
-1. GitLab (30mins)
-2. MySQL (180mins)
+1. GitLab (30 mins)
+2. MySQL (180 mins)
 
 **Thoughts:**
 Moved a repository from GitHub to GitLab. Currently, working within a team, the permissions seem to be more flexible in the free tier on GitLab. At first the permissions seemed confusing but I just needed to create a new group.
@@ -252,3 +252,44 @@ img:not([alt]) {
 1. [Phoenix Startup Week](https://phxstartupweek.com)
 2. [GitLab - Organization Account](https://forum.gitlab.com/t/organisation-account/14026/5)
 3. [Frontend Focus](https://frontendfoc.us/issues/409)
+
+## Day 14: September 21, 2019
+**Today's Progress:**
+1. CSS (180 mins)
+
+**Thoughts:**
+Worked on the home page for [Phoenix Startup Week](https://phxstartupweek.com). Started laying out content in sections and trying to write component CSS, attempting to use BEM-style components to make transfer to Gatsby site more straight-forward.
+Used [Font Squirrel](https://fontsquirrel.com/tools/webfont-generator) to add the custom fonts to the website as the brand fonts weren't Google Fonts or something I could grab online.
+
+**Today's Links:**
+1. [Phoenix Startup Week](https://phxstartupweek.com)
+2. [The Easy Way to Add Fonts to Your Website](https://www.pagecloud.com/blog/how-to-add-custom-fonts-to-any-website)
+
+## Day 15: September 23, 2019
+**Today's Progress:**
+1. React(120 mins)
+
+**Thoughts:**
+Worked on some React. Went through a lecture that discussed that React returns JavaScript- even though JSX looks like HTML, it is not HTML. In the example below, that is all JavaScript.
+```
+...
+return (
+  <div className="content-toggle">
+    <button onClick={handleClick} className={summaryClassName}>
+      Tacos
+    </button>
+    {isOpen && (
+      <div className="content-toggle-details">
+        <p>
+          A taco is a traditional Mexican dish composed of a corn or
+          wheat tortilla folded or rolled around a filling.
+        </p>
+      </div>
+    )}
+  </div>
+);
+```
+Discussed declarative vs imperitive, the proper terms such as `props` (for items that look like HTML attributes, they are props in React). We also talked about side-effects and hooks.
+
+**Today's Links:**
+1. [React Training](https://github.com/ReactTraining)
