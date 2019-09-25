@@ -299,7 +299,8 @@ Discussed declarative vs imperitive, the proper terms such as `props` (for items
 1. React(20 mins)
 
 **Thoughts:**
-Typed `npx create-react-app directory-name` to create a React app using boilerplate code and typed `npm start` to get a basic React app up and running. Removed most of the boilerplate and wrote a new component. 
+Typed `npx create-react-app directory-name` to create a React app using boilerplate code and typed `npm start` to get a basic React app up and running. Removed most of the boilerplate and wrote a new component.
+*Class Component* *Simple Component*
 
 **Today's Links:**
 1. [Getting Started with React - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-react/)
