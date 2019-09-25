@@ -297,10 +297,11 @@ Discussed declarative vs imperitive, the proper terms such as `props` (for items
 ## Day 16: September 24, 2019
 **Today's Progress:**
 1. React(20 mins)
+2. React(50 mins)
 
 **Thoughts:**
 Typed `npx create-react-app directory-name` to create a React app using boilerplate code and typed `npm start` to get a basic React app up and running. Removed most of the boilerplate and wrote a new component.
-A *Class Component* can be used over and over and uses the `class` keyword. 
+A **Class Component** can be used over and over and uses the `class` keyword. 
 ```react
 class Table extends Component {
   render() {
@@ -313,7 +314,7 @@ class Table extends Component {
   }
 }
 ```
-A *Simple Component* is a function, this doesn't use the class keyword.
+A **Simple Component** is a function, this doesn't use the class keyword.
 ```react
 const TableHeader = () => {
   return (
