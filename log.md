@@ -300,7 +300,33 @@ Discussed declarative vs imperitive, the proper terms such as `props` (for items
 
 **Thoughts:**
 Typed `npx create-react-app directory-name` to create a React app using boilerplate code and typed `npm start` to get a basic React app up and running. Removed most of the boilerplate and wrote a new component.
-*Class Component* *Simple Component*
+A *Class Component* can be used over and over and uses the `class` keyword. 
+```react
+class Table extends Component {
+  render() {
+    return (
+      <table>
+        <TableHeader />
+        <TableBody />
+      </table>
+    )
+  }
+}
+```
+A *Simple Component* is a function, this doesn't use the class keyword.
+```react
+const TableHeader = () => {
+  return (
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Job</th>
+      </tr>
+    </thead>
+  )
+}
+```
+I also worked on state.
 
 **Today's Links:**
 1. [Getting Started with React - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-react/)
