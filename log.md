@@ -331,3 +331,15 @@ I also worked on state.
 
 **Today's Links:**
 1. [Getting Started with React - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-react/)
+
+## Day 17: September 27, 2019
+**Today's Progress:**
+1. WordPress( mins)
+
+
+**Thoughts:**
+
+
+**Today's Links:**
+1. [How to Create a WordPress Plugin](https://www.hostinger.com/tutorials/how-to-create-wordpress-plugin)
+2. [How to Create Custom Post Types In WordPress](https://www.hostinger.com/tutorials/wordpress-custom-post-types)
