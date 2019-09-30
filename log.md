@@ -343,3 +343,29 @@ I also worked on state.
 **Today's Links:**
 1. [How to Create a WordPress Plugin](https://www.hostinger.com/tutorials/how-to-create-wordpress-plugin)
 2. [How to Create Custom Post Types In WordPress](https://www.hostinger.com/tutorials/wordpress-custom-post-types)
+
+## Day 17: September 27, 2019
+**Today's Progress:**
+1. CSS (60 mins)
+
+**Thoughts:**
+Worked on the [PHX Startup Week](https://phxstartupweek.com) front end. I am trying to create re-usable components while working with the BEM methodology.
+For example instead of:
+```
+.hero_section {
+  padding-bottom: 70px;
+}
+.parter-section {
+  padding-bottom: 70px;
+}
+```
+I'm thinking of:
+```
+.base-section {
+  padding-bottom: 70px;
+}
+```
+Trying to reduce redundant code while creating more components.
+
+**Today's Links:**
+1. [Useful :nth-child Recipes](https://css-tricks.com/useful-nth-child-recipies/)
